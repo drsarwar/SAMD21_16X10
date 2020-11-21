@@ -1,0 +1,69 @@
+Added Component: Designator=UART(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=X_lines(HDR1X16H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Y_Lines(HDR1X10H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU_17 Pin=X_lines-1
+Added Pin To Net: NetName=NetU_18 Pin=X_lines-2
+Added Pin To Net: NetName=NetU_19 Pin=X_lines-3
+Added Pin To Net: NetName=NetU_20 Pin=X_lines-4
+Added Pin To Net: NetName=NetU_35 Pin=X_lines-5
+Added Pin To Net: NetName=NetU_36 Pin=X_lines-6
+Added Pin To Net: NetName=NetU_37 Pin=X_lines-7
+Added Pin To Net: NetName=NetU_38 Pin=X_lines-8
+Added Pin To Net: NetName=NetU_3 Pin=Y_Lines-1
+Added Pin To Net: NetName=NetU_4 Pin=Y_Lines-2
+Added Pin To Net: NetName=NetU_13 Pin=Y_Lines-3
+Added Pin To Net: NetName=NetU_14 Pin=Y_Lines-4
+Added Pin To Net: NetName=NetU_15 Pin=Y_Lines-5
+Added Pin To Net: NetName=NetU_16 Pin=Y_Lines-6
+Added Pin To Net: NetName=NetU_61 Pin=Y_Lines-7
+Added Pin To Net: NetName=NetU_62 Pin=Y_Lines-8
+Added Pin To Net: NetName=NetU_25 Pin=U-25
+Added Pin To Net: NetName=NetU_25 Pin=X_lines-13
+Added Net: Name=NetU_25
+Added Pin To Net: NetName=NetU_26 Pin=U-26
+Added Pin To Net: NetName=NetU_26 Pin=X_lines-14
+Added Net: Name=NetU_26
+Added Pin To Net: NetName=NetU_27 Pin=U-27
+Added Pin To Net: NetName=NetU_27 Pin=X_lines-15
+Added Net: Name=NetU_27
+Added Pin To Net: NetName=NetU_28 Pin=U-28
+Added Pin To Net: NetName=NetU_28 Pin=X_lines-16
+Added Net: Name=NetU_28
+Added Pin To Net: NetName=NetU_29 Pin=U-29
+Added Net: Name=NetU_29
+Added Pin To Net: NetName=NetU_30 Pin=U-30
+Added Net: Name=NetU_30
+Added Pin To Net: NetName=NetU_41 Pin=U-41
+Added Pin To Net: NetName=NetU_41 Pin=X_lines-9
+Added Net: Name=NetU_41
+Added Pin To Net: NetName=NetU_42 Pin=U-42
+Added Pin To Net: NetName=NetU_42 Pin=X_lines-10
+Added Net: Name=NetU_42
+Added Pin To Net: NetName=NetU_43 Pin=U-43
+Added Pin To Net: NetName=NetU_43 Pin=X_lines-11
+Added Net: Name=NetU_43
+Added Pin To Net: NetName=NetU_44 Pin=U-44
+Added Pin To Net: NetName=NetU_44 Pin=X_lines-12
+Added Net: Name=NetU_44
+Added Pin To Net: NetName=NetU_63 Pin=U-63
+Added Pin To Net: NetName=NetU_63 Pin=Y_Lines-9
+Added Net: Name=NetU_63
+Added Pin To Net: NetName=NetU_64 Pin=U-64
+Added Pin To Net: NetName=NetU_64 Pin=Y_Lines-10
+Added Net: Name=NetU_64
+Change Class Name : Old Net Name=SAMD21_8X8_schematic New Net Name=SAMD21_16X10_schematic
+Added Member To Class: ClassName=SAMD21_16X10_schematic Member=Component UART Header 2
+Added Member To Class: ClassName=SAMD21_16X10_schematic Member=Component U ATSAMD21J18A-AU
+Added Member To Class: ClassName=SAMD21_16X10_schematic Member=Component X_lines Header 16H
+Added Member To Class: ClassName=SAMD21_16X10_schematic Member=Component Y_Lines Header 10H
+Change Room Name: Old Name=SAMD21_8X8_schematic New Name=SAMD21_16X10_schematic
+Change Room Scope: Old Scope=InComponentClass('SAMD21_8X8_schematic') New Scope=InComponentClass('SAMD21_16X10_schematic')
