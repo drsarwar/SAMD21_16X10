@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=Y_Lines Old Footprint=HDR1X10H New Footprint=HDR1X16H
+Change Component Comment : Designator=Y_Lines Old Comment=Header 10H New Comment=Header 16H
+Added Pin To Net: NetName=NetU_5 Pin=U-5
+Added Pin To Net: NetName=NetU_5 Pin=Y_Lines-11
+Added Net: Name=NetU_5
+Added Pin To Net: NetName=NetU_6 Pin=U-6
+Added Pin To Net: NetName=NetU_6 Pin=Y_Lines-12
+Added Net: Name=NetU_6
+Added Pin To Net: NetName=NetU_9 Pin=U-9
+Added Pin To Net: NetName=NetU_9 Pin=Y_Lines-13
+Added Net: Name=NetU_9
+Added Pin To Net: NetName=NetU_10 Pin=U-10
+Added Pin To Net: NetName=NetU_10 Pin=Y_Lines-14
+Added Net: Name=NetU_10
+Added Pin To Net: NetName=NetU_11 Pin=U-11
+Added Pin To Net: NetName=NetU_11 Pin=Y_Lines-15
+Added Net: Name=NetU_11
+Added Pin To Net: NetName=NetU_12 Pin=U-12
+Added Pin To Net: NetName=NetU_12 Pin=Y_Lines-16
+Added Net: Name=NetU_12
+Change Class Name : Old Net Name=SAMD21_16X10_schematic New Net Name=SAMD21_16X10_V2_schematic
+Change Room Name: Old Name=SAMD21_16X10_schematic New Name=SAMD21_16X10_V2_schematic
+Change Room Scope: Old Scope=InComponentClass('SAMD21_16X10_schematic') New Scope=InComponentClass('SAMD21_16X10_V2_schematic')
